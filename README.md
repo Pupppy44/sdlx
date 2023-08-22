@@ -15,7 +15,7 @@
 
 ## Installation
 
-To use `sdlx`, include all the files in the library to your project. You'll need **SDL2** and [**miniaudio**](https://github.com/mackron/miniaudio) (for audio).
+To use `sdlx`, include all the files in the library to your project. You'll need **SDL2** and [**miniaudio**](https://github.com/mackron/miniaudio) (for audio). After that, include `app.h`.
 
 ## Example
 
